@@ -1,0 +1,1 @@
+# bash_gitlab_get_permissions
